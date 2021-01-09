@@ -1,0 +1,23 @@
+{
+    "Andhra_pradesh":"costal_andhra",
+    "Andhra_pradesh":"rayalseema",
+        "costal AP":
+        {
+            "nine_dist":"top four as follows",
+            "dist":"GNT",
+            "dist":"KRISHNA",
+            "dist":"PRAKASHAM",
+            "dist":"NLR",
+            "boolean": "true",
+            "age": null
+        },
+ "rayalseema": [
+        {"dist":"ANTR"},
+        {"dist":"KDP"},
+        {"dist":"KNL"},
+        {"dist":"CTR"}
+         ],
+         "married":true,
+         "value":null
+}
+            
